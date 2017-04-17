@@ -1,0 +1,52 @@
+<svg height="782" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="782" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">12 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ sql-cli@0.5.2 </tspan>
+<tspan x="10" y="90">  ├── chardet@0.1.0 </tspan>
+<tspan x="10" y="106">  ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="122">  │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="138">  ├─┬ easy-table@1.1.0 </tspan>
+<tspan x="10" y="154">  │ └─┬ wcwidth@1.0.1 </tspan>
+<tspan x="10" y="170">  │   └─┬ defaults@1.0.3 </tspan>
+<tspan x="10" y="186">  │     └── clone@1.0.2 </tspan>
+<tspan x="10" y="202">  ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="218">  ├─┬ mssql@3.3.0 </tspan>
+<tspan x="10" y="234">  │ ├── generic-pool@2.5.4 </tspan>
+<tspan x="10" y="250">  │ ├── promise@7.1.1 </tspan>
+<tspan x="10" y="266">  │ └─┬ tedious@1.14.0 </tspan>
+<tspan x="10" y="282">  │   ├─┬ babel-runtime@5.8.38 </tspan>
+<tspan x="10" y="298">  │   │ └── core-js@1.2.7 </tspan>
+<tspan x="10" y="314">  │   ├── big-number@0.3.1 </tspan>
+<tspan x="10" y="330">  │   ├── bl@1.2.0 </tspan>
+<tspan x="10" y="346">  │   ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="362">  │   │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="378">  │   │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="394">  │   │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="410">  │   │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="426">  │   │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="442">  │   │ └── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="458">  │   ├── semver@5.3.0 </tspan>
+<tspan x="10" y="474">  │   └── sprintf@0.1.5 </tspan>
+<tspan x="10" y="490">  ├── mstring@0.1.2 </tspan>
+<tspan x="10" y="506">  ├─┬ password-prompt@1.0.2 </tspan>
+<tspan x="10" y="522">  │ ├── ansi-escapes@1.4.0 </tspan>
+<tspan x="10" y="538">  │ └─┬ cross-spawn@4.0.0 </tspan>
+<tspan x="10" y="554">  │   ├─┬ lru-cache@4.0.2 </tspan>
+<tspan x="10" y="570">  │   │ ├── pseudomap@1.0.2 </tspan>
+<tspan x="10" y="586">  │   │ └── yallist@2.1.2 </tspan>
+<tspan x="10" y="602">  │   └─┬ which@1.2.14 </tspan>
+<tspan x="10" y="618">  │     └── isexe@2.0.0 </tspan>
+<tspan x="10" y="634">  ├─┬ q@2.0.3 </tspan>
+<tspan x="10" y="650">  │ ├── asap@2.0.5 </tspan>
+<tspan x="10" y="666">  │ ├── pop-iterate@1.0.1 </tspan>
+<tspan x="10" y="682">  │ └── weak-map@1.0.5 </tspan>
+<tspan x="10" y="698">  ├── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="714">  ├── underscore@1.8.3 </tspan>
+<tspan x="10" y="730">  ├─┬ underscore.string@3.3.4 </tspan>
+<tspan x="10" y="746">  │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="762">  └── ya-csv@0.9.4</tspan>
+</text>
+</svg>
